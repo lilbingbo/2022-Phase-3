@@ -14,9 +14,9 @@ You are to complete all of these:
 1. Download the CIFAR-10 dataset from [here](https://www.cs.toronto.edu/~kriz/cifar.html). You are only allowed to use the dataset downloaded from said page, placed in your project directory and opened from your project directory.
 
 2. Exploratory Data Analysis. Show at least the following:
-    * Show the shape of the datasets.
-    * Render 5 images from each label to show that you know how to assemble an image from the dataset.
-    * Pick __ONE__ label that you will be using for probabability that the item/animal is there.
+    [x] Show the shape of the datasets.
+    [x] Render 5 images from each label to show that you know how to assemble an image from the dataset.
+    [x] Pick __ONE__ label that you will be using for probabability that the item/animal is there.
 
 3. Data Processing. Do at least the following:
     * Obtain your training and testing dataset. Use the data batches as how they are meant to be used.
